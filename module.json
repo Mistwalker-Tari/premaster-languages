@@ -1,0 +1,29 @@
+{
+  "id": "premaster-languages",
+  "title": "Premaster Languages",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "en.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.2.3",
+          "verified": "6.2.3"
+        }
+      }
+    ]
+  },
+  "download": "https://www.dropbox.com/scl/fi/1wul1xgsuu3mq2mqr2z46/module.json?rlkey=fv569dos1p9kkkk5d5cy9a53v&st=2v7ubss0&dl=1"
+}
