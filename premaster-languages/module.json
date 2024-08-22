@@ -1,0 +1,28 @@
+{
+  "id": "premaster-languages",
+  "title": "Premaster Languages",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "en.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.2.3",
+          "verified": "6.2.3"
+        }
+      }
+    ]
+  }
+}
